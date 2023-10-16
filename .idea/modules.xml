@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dio-Projeto-Desafio-Padr-es-Java-Usando-Padr-o--Spring-Boot.iml" filepath="$PROJECT_DIR$/.idea/Dio-Projeto-Desafio-Padr-es-Java-Usando-Padr-o--Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-Padrões-de-projeto-spring-boot/lab-padroes-projeto-java-spring/lab-padroes-projeto-java-spring.iml" filepath="$PROJECT_DIR$/Desafio-Padrões-de-projeto-spring-boot/lab-padroes-projeto-java-spring/lab-padroes-projeto-java-spring.iml" />
+    </modules>
+  </component>
+</project>
